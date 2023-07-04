@@ -1,4 +1,4 @@
-ESX = exports['broker-system']:getSharedObject()
+ESX = exports['es_extended']:getSharedObject()
 ShopsCfg = {}
 
 ShopsCfg.useCheezaInventory = true
